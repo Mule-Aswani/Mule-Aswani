@@ -1,4 +1,4 @@
- Hi there 👋 <p color="red">Mule Aswani</p>
+ Hi there 👋<p color="red">Mule Aswani</p>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
